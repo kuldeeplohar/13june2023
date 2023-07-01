@@ -1,0 +1,11 @@
+.medium-button {
+    font-size:px;
+    padding: 5px 12px;
+    margin-left: 3px;
+}
+.k_input:focus + ul{
+    display: block;
+}
+.k_ul{
+    display: none ;
+}
